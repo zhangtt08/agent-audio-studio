@@ -1,0 +1,7 @@
+{
+  "command": "node",
+  "args": ["agent/server.mjs"],
+  "ready_port": 8788,
+  "ready_path": "/api/health",
+  "note": "AgentAudio 本地音频引擎 Agent API 服务，默认端口 8788"
+}
