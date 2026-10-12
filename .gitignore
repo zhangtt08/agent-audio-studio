@@ -4,3 +4,5 @@ ui/dist/
 *.log
 .DS_Store
 tmp/
+
+*.exe
